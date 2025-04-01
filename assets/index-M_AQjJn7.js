@@ -77,7 +77,7 @@ return y.version="2.30.1",ae(Le),y.fn=L,y.min=qf,y.max=Bf,y.now=hi,y.utc=I,y.uni
                <style>
                @font-face {
                   font-family: 'MyCustomFont';
-                  src: url('public/IRANSansXFaNum-Medium.woff') format('woff');
+                  src: url('IRANSansXFaNum-Medium.woff') format('woff');
                 }
                 * {
                   font-family: 'MyCustomFont', "Open Sans";
